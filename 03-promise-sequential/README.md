@@ -12,6 +12,7 @@ Do not use already existing NodeJS methods that does the job!
         // TODO
     }
 
+    // Il me semble qu'il y a une coquille ici et que c'est la fonction sequential() qui doit être testée :)
     parallel([ () => Promise.resolve(12), () => Promise.resolve(13) ]);
     // Should invoke the first promise, and only once it resolves, it should invoke the second promise
 ```
