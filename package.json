@@ -1,0 +1,14 @@
+{
+  "name": "preludd-recrutement-node-promises",
+  "version": "1.0.0",
+  "description": "exercices for preludd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ariel saulnier",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
