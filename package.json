@@ -4,7 +4,7 @@
   "description": "exercices for preludd",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "author": "ariel saulnier",
   "license": "ISC",
