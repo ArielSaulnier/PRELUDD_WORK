@@ -20,5 +20,4 @@ function first(functions) {
         });
     });
 }
-
 module.exports = first;
